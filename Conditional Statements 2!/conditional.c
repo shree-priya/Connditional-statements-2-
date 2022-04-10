@@ -23,6 +23,6 @@ int main()
 		    printf("Sandwitch Rs.149");
 			break;
 			default:
-			printf("the menu is not ordered");				
+			printf("The menu is not ordered");				
 	}
 }
